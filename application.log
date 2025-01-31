@@ -1,0 +1,2 @@
+<green>2025-01-31 12:08:42,016</green> | <level>{level: <8}</level> | <cyan>simple_logger</cyan>:<cyan>info</cyan>:<cyan>59</cyan> - <level>This message appears in both console and file</level>
+<green>2025-01-31 12:08:42,016</green> | <level>{level: <8}</level> | <cyan>simple_logger</cyan>:<cyan>info</cyan>:<cyan>59</cyan> - <level>This message will use the custom format</level>
